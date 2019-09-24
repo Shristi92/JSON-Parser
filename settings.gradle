@@ -1,0 +1,2 @@
+include ':app', ':jsonparser'
+rootProject.name='JSON Parser'
